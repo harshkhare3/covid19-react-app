@@ -31,3 +31,7 @@
   font-size: 0.8rem !important;
   margin-top: 15px !important;
 }
+
+.infoBox__cases {
+  cursor: pointer;
+}
